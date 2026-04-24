@@ -25,8 +25,10 @@ En esta sección deben eliminar esta línea de texto, borrar la leyenda "Integra
 
 Rodriguez Medrano Israel
     No. de Cuenta: 322209408
+    
 Malvaez Camacho Erick
     No. de Cuenta: 322097579
+    
 Juárez Flores Luis ALberto
     No. de Cuenta: 119000935
 
